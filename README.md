@@ -11,8 +11,9 @@ Java application to handle the various operations required to manage airline res
 * JDBC Driver for your SQL Database
 ## Installation
 ### Clone the repository
+change your path location and type 
 ```bash
-git clone https://github.com/your-username/
+git clone https://github.com/Kavin0327/FlightReservation_JavaProjectUsingJDBC.git
 ```
 ### Configuration of database connection
 
